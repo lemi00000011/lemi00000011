@@ -1,5 +1,5 @@
-- 👋 Hi, I’m lemi tesfaye m
-- 👀 I’m interested in coding ,debuging
+- 👋 Hi, I’m lemi tesfaye
+- 👀 I’m interested in coding ,debuging solving problems
 - 🌱 I’m currently learning in adiss abab
    I’m looking to collaborate with a team which can do more on datastructure and algorithm
 - ⚡ 
